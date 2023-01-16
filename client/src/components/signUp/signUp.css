@@ -1,0 +1,20 @@
+.signUp {
+  background-image: url("/src/assets/logIn/signBackground.png");
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 2000px 1414px;
+  text-align: center;
+}
+.input-table {
+  margin-top: 20px;
+}
+.spacer {
+  height: 50px;
+}
+.show-pass {
+  margin-top: 20px;
+}
+.register {
+  margin-top: 20px;
+}

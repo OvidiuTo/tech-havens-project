@@ -1,0 +1,26 @@
+.profile-image {
+  background-image: url("/src/assets/logIn/signBackground.png");
+  height: 100vh;
+
+  background-repeat: no-repeat;
+  background-size: 2000px 1414px;
+  text-align: center;
+}
+.data-card {
+  text-align: center;
+  background-color: teal;
+  border-radius: 10px;
+
+  box-shadow: 15px 15px #014d4e;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.data {
+  font-size: 20px;
+  color: white;
+  font-weight: 500;
+  background-color: #014d4e;
+  padding: 2px;
+}

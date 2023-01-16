@@ -1,0 +1,41 @@
+.signIn-image {
+  background-image: url("/src/assets/logIn/signBackground.png");
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 2000px 1414px;
+  text-align: center;
+}
+.title {
+  font-size: 66;
+}
+
+.signIn-div {
+  margin: auto;
+
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+}
+
+.input-div {
+  height: 50px;
+}
+.input-table {
+  height: 25px;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid teal;
+}
+.signIn-content {
+  margin-top: 50px;
+}
+
+.signIn-button {
+  border-radius: 20px;
+  background-color: teal;
+  color: white;
+  border: none;
+  height: 50px;
+  width: 200px;
+}
