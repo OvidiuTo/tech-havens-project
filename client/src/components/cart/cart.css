@@ -1,0 +1,83 @@
+.item {
+  background-image: url("/src/assets/logIn/signBackground.png");
+  padding-top: 50px;
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 2000px 1414px;
+}
+.item-computer {
+  margin-left: 20px ;
+  padding: 20px;
+  width: 90%;
+  float: left;
+  background-color: teal;
+  border-radius: 10px;
+
+  box-shadow: 15px 15px #014d4e;
+}
+.item-title {
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  padding-bottom: 5px;
+}
+
+.price {
+  font-size: 24px;
+  color: white;
+}
+.button-div {
+  width: 200px;
+  margin: 0 auto;
+  display: inline;
+  color: white;
+  font-size: 20px;
+}
+.button-div button {
+  padding: 10px;
+  margin: 20px;
+}
+
+.img1 {
+  height: 50px;
+  width: 200px;
+}
+
+.cart-item{
+  display: flex;
+  align-items: center;
+}
+
+.Purchase-btn-div{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.Purchase-btn-div button{
+  
+  padding: .75rem 1.25rem;
+  border-radius: 10rem;
+  
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: .15rem;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+.Purchase-btn-div button:hover{
+  color: white;
+  background: teal;
+}
+.img-pc{
+  height: 60px;
+  display:inline-block
+}
+
+.item-pt{
+  display: flex;
+  align-items: center;
+}

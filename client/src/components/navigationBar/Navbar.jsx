@@ -23,6 +23,9 @@ export default function Navbar(props) {
           <a href="/sign-up">Register</a>
         </li>
         <li>
+          <a href="/cart">Cart</a>
+        </li>
+        <li>
           <a href="/profile">Profile</a>
         </li>
       </ul>

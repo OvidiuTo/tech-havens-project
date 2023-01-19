@@ -5,6 +5,7 @@ import Signup from "./signUp/Signup";
 import Signin from "./signIn/signIn";
 import Profile from "./profile/Profile";
 import AboutUs from "./aboutus/aboutUs";
+import Cart from "./cart/cart";
 export default function App() {
   return (
     <div>
@@ -16,6 +17,7 @@ export default function App() {
           <Route path="/profile" element={<Profile />} />
           <Route path="/sign-in" element={<Signin />} />
           <Route path="/about-us" element={<AboutUs />} />
+          <Route path="/cart" element={<Cart />} />
         </Routes>
       </BrowserRouter>
     </div>
